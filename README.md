@@ -23,6 +23,3 @@ profitability drivers, and shipping efficiency gaps.
 
 ## Dataset
 [DataCo Supply Chain Dataset — Kaggle](https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset)
-```
-
-حطه وضغط **Commit changes**! 🚀
